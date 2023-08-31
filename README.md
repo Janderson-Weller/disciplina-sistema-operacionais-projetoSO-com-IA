@@ -1,4 +1,4 @@
-# JSExpertMax Gesture Controller - Semana JS Expert 7.0
+# Projeto baseado no JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
 ## Preview
 <img width=100% src="./assets/gestfix-demo.gif">
