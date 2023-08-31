@@ -1,0 +1,15 @@
+{
+  "name": "hand-control-browser",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "keywords": [],
+  "author": "Janderson Weller",
+  "license": "MIT",
+  "description": "Projeto basedado na proposta JSExpert Max Gesture Controller do Erick Wendel na Semana JS Expert 7.0",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
